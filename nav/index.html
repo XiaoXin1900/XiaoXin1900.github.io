@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<title>MajorMayer</title>
+		<link rel="stylesheet" href="main.css">
+		<script src="Gradientify.js"></script>
+		<script src="jquery.js"></script>
+	</head>
+
+	<body style="background-image: -moz-linear-gradient(0deg, rgb(36, 199, 227), rgb(236, 221, 131));">
+		<div id="wrapper">
+			<h1>MajorMayer</h1>
+			<div style="height: 0;">
+				<div class="lang" onclick="changeLang(this)">CH</div>
+			</div>
+			<p>Just you never worry about personal gains and losses.</p>
+			<p>
+				<a href="http://majormayer.gitee.io" class="btn-4">Personal website</a>
+			</p>
+			<p>
+				<a href="http://blog.csdn.net/majormayer" class="btn-4">
+					Blog of CSDN
+				</a>
+			</p>
+			<p>
+				<a href="http://majormayer.gitee.io/about/" class="btn-4">Resume</a>
+			</p>
+		</div>
+		<script>
+			$(document).ready(function() {
+				$("body").gradientify({
+					gradients: [{
+						start: [49, 76, 172],
+						stop: [242, 159, 191]
+					}, {
+						start: [255, 103, 69],
+						stop: [240, 154, 241]
+					}, {
+						start: [33, 229, 241],
+						stop: [235, 236, 117]
+					}]
+				});
+			});
+
+			//简单多语言处理
+			var curLang = "CH";
+			var as = document.getElementsByTagName("a");
+			var h1 = document.getElementsByTagName("h1")[0];
+			var p = document.getElementsByTagName("p")[0];
+
+			function changeLang(ele) {
+				curLang = curLang == "CH" && "EN" || "CH";
+				ele.innerText = curLang;
+				h1.innerText = curLang == "CH" && "MajorMayer" || "小周周";
+				p.innerText = curLang == "CH" && "Just you never worry about personal gains and losses." || "命 里 有 时 终 须 有 , 人 生 无 时 莫 强 求";
+				as[1].innerText = curLang == "CH" && "Blog of CSDN" || "CSDN博客";
+				as[0].innerText = curLang == "CH" && "Personal website" || "个人网站";
+				as[2].innerText = curLang == "CH" && "Resume" || "简历";
+			}
+		</script>
+
+	</body>
+
+</html>

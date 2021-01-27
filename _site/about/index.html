@@ -1,0 +1,235 @@
+<!doctype html>
+<html>
+
+	<head>
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="chrome=1">
+		<meta http-equiv="Content-Type" content="text/html; charset = UTF-8" />
+		<title>简历</title>
+		<style>
+			@font-face {
+				font-family: 'Quicksand';
+				font-style: normal;
+				font-weight: 400;
+				src: local('Quicksand Regular'), local('Quicksand-Regular'), url(http://fonts.gstatic.com/s/quicksand/v5/sKd0EMYPAh5PYCRKSryvW1tXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+				unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+			}
+			
+			body {
+				overflow: hidden;
+				background-color: #000000;
+				user-select: none;
+				font-family: 'Quicksand', sans-serif;
+			}
+			
+			.Resume {
+				text-align: center;
+				clear: both;
+				color: white;
+			}
+			
+			.container {
+				width: 80%;
+				margin-left: 10%;
+				position: relative;
+				border-radius: 10px;
+				z-index: 1;
+			}
+			
+			.tab-group {
+				position: relative;
+				border: 1px solid #eee;
+				margin-top: 2.5em;
+				border-radius: 0 0 10px 10px;
+			}
+			
+			.tab-group section {
+				color: white;
+				opacity: 0;
+				height: 0;
+				padding: 0 1em;
+				overflow: hidden;
+				transition: opacity 0.4s ease, height 0.4s ease;
+			}
+			
+			.tab-group section.active {
+				opacity: 1;
+				height: auto;
+				overflow: visible;
+			}
+			
+			.tab-nav {
+				list-style: none;
+				margin: -2.5em -1px 0 0;
+				padding: 0;
+				height: 2.5em;
+				overflow: hidden;
+			}
+			
+			.tab-nav li {
+				display: inline;
+			}
+			
+			.tab-nav li a {
+				top: 1px;
+				border: 1px solid #eee;
+				position: relative;
+				display: block;
+				float: left;
+				border-radius: 10px 10px 0 0;
+				background: transparent;
+				line-height: 2em;
+				padding: 0 1em;
+				text-decoration: none;
+				color: white;
+				margin-top: .5em;
+				margin-right: 1px;
+				transition: background .2s ease, line-height .2s ease, margin .2s ease;
+			}
+			
+			.tab-nav li.active a {
+				border: 1px solid #eee;
+				background: #eee;
+				color: black;
+				line-height: 2.5em;
+				margin-top: 0;
+			}
+			
+			#devtime {
+				font-size: larger;
+				color: red;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="Resume">
+			<h1>RESUME</h1>
+			<div class="container">
+				<div class="tab-group">
+					<ul class="tab-nav">
+						<li class="active">
+							<a href="#tab1">基本信息</a>
+						</li>
+						<li class="">
+							<a href="#tab2">NET</a>
+						</li>
+						<li class="">
+							<a href="#tab3">H5</a>
+						</li>
+						<li class="">
+							<a href="#tab4">APP</a>
+						</li>
+						<li class="">
+							<a href="#tab5">桌面应用</a>
+						</li>
+					</ul>
+					<section id="tab1" title="基本信息" class="active">
+						<h3>个人信息</h3>
+						<p>
+							周杨 | NET | H5 | APP | 桌面应用
+						</p>
+						<p style="line-height: 2em;text-align: left;text-indent: 2em;">
+							周杨 [MajorMayer] ,2016年毕业于重庆工程学院(软件工程 | NET WEB开发),至2015-5-14距今 (含实习) 已有
+							<span id="devtime"></span>天 开发历史 , 新人求带飞!!!
+						</p>
+						<p style="line-height: 2em;text-align: left;text-indent: 2em;">
+							<i>TEL: 18983662338 | QQ: 1414294708,362656313 | EML: QQ@qq.com</i>
+						</p>
+						<p style="line-height: 2em;text-align: left;margin: 0 2em;">
+							履历:<br /> 1. 重庆易健科技 <i>(2015-5-14 >> 2015-9-13)</i> : 造价咨询平台OA<br /> 2. 重庆筑奥科技 <i>(2015-9-14  至今)</i> : 牛官儿 | 华菱和田玉电商 | 筑奥科技官网 | 酒邻居公众号 <br /> Ozr.
+							<br />江苏蝌蚪文: 布APP | OA移动端APP<br />
+						</p>
+						<p style="line-height: 2em;text-align: left;margin: 0 2em;">
+							个链:
+							<a href="http://blog.csdn.net/majormayer" style="color: greenyellow;">CSDN博客</a> |
+							<a href="http://majormayer.gitee.io/" style="color: greenyellow;">个站</a> |
+							<a href="http://majormayer.gitee.io/nav/" style="color: greenyellow;">个站导航</a>
+						</p>
+					</section>
+					<section id="tab2" title="NET" style="line-height: 2em;text-align: left;margin-left: 2em;">
+						<h3>NET技术栈</h3>
+						<p>ASP NET<br /> NET Winform<br /> Webapi
+							<br /> WebService
+							<br /> MVC
+							<br /> EntityFramwork
+							<br /> IOC [ unity | AutoFac ] ( In exploration )
+						</p>
+					</section>
+					<section id="tab3" title="H5" style="line-height: 2em;text-align: left;margin-left: 2em;">
+						<h3>H5技术栈</h3>
+						<p>Html5<br /> CSS3
+							<br /> Svg
+							<br /> Canvas ( In exploration )<br /> Hbuilder [ Mui | H5_plus]<br /> WeUI | VUI | 微信小程序 | 移动页面<br /> Vue | Vue-Router | Vuex<br /> HostCss | Px2rem<br /> Webpack | Gulp<br /> More Plugins...
+						</p>
+					</section>
+					<section id="tab4" title="APP" style="line-height: 2em;text-align: left;margin-left: 2em;">
+						<h3>APP技术栈</h3>
+						<p>Hbuilder<br /> DeviceOne
+						</p>
+					</section>
+					<section id="tab5" title="桌面应用" style="line-height: 2em;text-align: left;margin-left: 2em;">
+						<h3>桌面应用技术栈</h3>
+						<p>NET Winform<br /> NET WPF ( In exploration )<br /> Electron ( In exploration )
+						</p>
+					</section>
+				</div>
+			</div>
+			
+		</div>
+		<div id="canvas"></div>
+		<script src="protoclass.js"></script>
+		<script src='box2d.js'></script>
+		<script src='Main.js'></script>
+		<script src="jquery.js"></script>
+		<script>
+			(function(defaults, $, window, document, undefined) {
+				$.extend({
+					tabifySetup: function(options) {
+						return $.extend(defaults, options);
+					}
+				}).fn.extend({
+					tabify: function(options) {
+						options = $.extend({}, defaults, options);
+						return $(this).each(function() {
+							var $element, tabHTML, $tabs, $sections;
+							$element = $(this);
+							$sections = $element.children();
+							tabHTML = '<ul class="tab-nav">';
+							$sections.each(function() {
+								if($(this).attr('title') && $(this).attr('id')) {
+									tabHTML += '<li><a href="#' + $(this).attr('id') + '">' + $(this).attr('title') + '</a></li>';
+								}
+							});
+							tabHTML += '</ul>';
+							$element.prepend(tabHTML);
+							$tabs = $element.find('.tab-nav li');
+							var activateTab = function(id) {
+								$tabs.filter('.active').removeClass('active');
+								$sections.filter('.active').removeClass('active');
+								$tabs.has('a[href="' + id + '"]').addClass('active');
+								$sections.filter(id).addClass('active');
+							};
+							$tabs.on('click', function(e) {
+								activateTab($(this).find('a').attr('href'));
+								e.preventDefault();
+							});
+							activateTab($tabs.first().find('a').attr('href'));
+						});
+					}
+				});
+			}({
+				property: 'value',
+				otherProperty: 'value'
+			}, jQuery, window, document));
+			$('.tab-group').tabify();
+			var date1 = new Date('2015-5-14'); //开始时间
+			var date2 = new Date(); //结束时间
+			var date3 = date2.getTime() - date1.getTime() //时间差的毫秒数
+				//计算出相差天数
+			var days = Math.floor(date3 / (24 * 3600 * 1000))
+			$("#devtime").text(days);
+		</script>
+	</body>
+
+</html>
