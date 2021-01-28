@@ -18,14 +18,7 @@ cdn:
         enabled: true
 # 组件配置
 components:
-     gitalk: true
-     gitalk_clientID: '235da0bed4c910466176'
-     gitalk_Secret: '9137458f5356180b7968036fcff70f852aebbbdb'
-     gitalk_repo: 'XiaoXin1900.github.io'
-     gitalk_owner: 'XiaoXin1900'
-     gitalk_admin: 'XiaoXin1900'
-     distractionFreeMode: true
- # 分享
+    # 分享
     share:
         enabled: false
     # 不蒜子访问统计
