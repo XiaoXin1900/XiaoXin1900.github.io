@@ -12,7 +12,7 @@ permalink: /about/
 
 ## 联系
 
-<!DOCTYPE html>
+
 <head>
     <meta charset = "utf-8">
 </head>
@@ -24,7 +24,9 @@ permalink: /about/
     Github:<a href="https://github.com/XiaoXin1900">XiaoXin1900</a><br>
 </p>
     </body>
+
 </html>
+
 
 
 
