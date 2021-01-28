@@ -126,7 +126,7 @@ gitment:
         client_id: 235da0bed4c910466176
         client_secret: 9137458f5356180b7968036fcff70f852aebbbdb
 # https://github.com/gitalk/gitalk#install
-gitalk: true
+gitalk: 
     owner: XiaoXin1900
     repo: XiaoXin1900.github.io
     clientID: 235da0bed4c910466176
