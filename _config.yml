@@ -131,7 +131,6 @@ gitalk: true
     repo: XiaoXin1900.github.io
     clientID: 235da0bed4c910466176
     clientSecret: 9137458f5356180b7968036fcff70f852aebbbdb
-    distractionFreeMode: true
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
