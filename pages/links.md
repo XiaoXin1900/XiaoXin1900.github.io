@@ -13,4 +13,4 @@ permalink: /links/
 
 > 友情链接
 
-模板提供：[https://mazhuang.org](https://mazhuang.org/)
+模板提供：<a href="https://mazhuang.org">mazhuang</a>
