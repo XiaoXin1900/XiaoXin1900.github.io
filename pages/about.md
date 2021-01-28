@@ -13,10 +13,11 @@ permalink: /about/
 ## 联系
 
 <p>
-    邮箱:<a href="mailto:amazingxiaoxin1900@gail.com">XiaoXin1900</a><br>
+    邮箱:<a href="mailto:amazingxiaoxin1900@gmail.com" target="_top"> 发送邮件</a><br>
     Bilibili:<a href="https://space.bilibili.com/628626163">XiaoXin1900</a><br>
     Github:<a href="https://github.com/XiaoXin1900">XiaoXin1900</a><br>
 </p>
+
 
 
 
