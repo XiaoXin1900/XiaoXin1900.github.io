@@ -1,35 +1,41 @@
 ---
 layout: page
 title: About
-description: 一个学生小白
-keywords: XiaoXin1900， Student，Code
+description: 打码改变世界
+keywords: Zhuang Ma, 马壮
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是XiaoXin1900, 希望你开心。
+我是马壮，码而生，码而立。
+
+仰慕「优雅编码的艺术」。
+
+坚信熟能生巧，努力改变人生。
 
 ## 联系
 
-
-<head>
-    <meta charset = "utf-8">
-</head>
-<html>
-    <body>
-<p>
-    邮箱:<a href="mailto:amazingxiaoxin1900@gmail.com" target="_top"> 发送邮件</a><br>
-    Bilibili:<a href="https://space.bilibili.com/628626163">XiaoXin1900</a><br>
-    Github:<a href="https://github.com/XiaoXin1900">XiaoXin1900</a><br>
-</p>
-    </body>
-
-</html>
+<ul>
+{% for website in site.data.social %}
+<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
+{% endfor %}
+{% if site.url contains 'mazhuang.org' %}
+<li>
+微信公众号：<br />
+<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
+</li>
+{% endif %}
+</ul>
 
 
+## Skill Keywords
 
-
-
-
-
+{% for skill in site.data.skills %}
+### {{ skill.name }}
+<div class="btn-inline">
+{% for keyword in skill.keywords %}
+<button class="btn btn-outline" type="button">{{ keyword }}</button>
+{% endfor %}
+</div>
+{% endfor %}
