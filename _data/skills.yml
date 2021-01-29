@@ -1,16 +1,4 @@
-- name: Software Engineer Keywords
-  keywords:
-      - C
-      - HTML
-      - CSS
-      - JS
-
-- name: Mobile Developer Keywords
-  keywords:
-      - Students
-      - Code
-
-- name: Windows Developer Keywords
+- name: Code studying
   keywords:
       - C
       - HTML
