@@ -6,10 +6,10 @@ description: Secret base ～君がくれたもの～歌词及罗马音翻译
 keywords: 
 ---
 
- <iframe border="1" frameborder="0" height="77" marginheight="0" marginwidth="0" src="//music.163.com/outchain/player?type=2&amp;id=405079779&amp;auto=0&amp;height=66" width="100%"> <!-网易音乐播放-->
-  </iframe>
 > secret base～你给我的东西～ – SILENT SIREN
 
+<iframe border="1" frameborder="0" height="77" marginheight="0" marginwidth="0" src="//music.163.com/outchain/player?type=2&amp;id=405079779&amp;auto=0&amp;height=66" width="100%">
+</iframe>
 ____
 **君と夏の终わり 将来の梦 (和你在夏天结束之时 谈论著将来的梦想)**
 **きみとなつのおわり しょうらいのゆめ**
