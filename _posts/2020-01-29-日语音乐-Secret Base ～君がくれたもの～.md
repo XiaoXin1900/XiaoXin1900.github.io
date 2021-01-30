@@ -6,11 +6,8 @@ description: Secret base ～君がくれたもの～歌词及罗马音翻译
 keywords: 
 ---
 
- <iframe frameborder="0" border="1" 
-            marginwidth="0" marginheight="0" 
-            width=100% height=77 
-            src="//music.163.com/outchain/player?type=2&id=405079779&auto=0&height=66"> 
-  </iframe> <!-网易音乐播放-->
+ <iframe border="1" frameborder="0" height="77" marginheight="0" marginwidth="0" src="//music.163.com/outchain/player?type=2&amp;id=405079779&amp;auto=0&amp;height=66" width="100%"> <!-网易音乐播放-->
+  </iframe>
 > secret base～你给我的东西～ – SILENT SIREN
 
 ____
