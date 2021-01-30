@@ -6,7 +6,7 @@ description: Secret base ～君がくれたもの～歌词及罗马音翻译
 keywords: 
 ---
 
-> secret base～君がくれたもの～ – SILENT SIREN
+> Secret Base～君がくれたもの～ – SILENT SIREN
 
 <iframe border="1" frameborder="0" height="77" marginheight="0" marginwidth="0" src="//music.163.com/outchain/player?type=2&amp;id=405079779&amp;auto=0&amp;height=66" width="100%">
 </iframe>
