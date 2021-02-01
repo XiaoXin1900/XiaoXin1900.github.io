@@ -15,7 +15,7 @@ ____
 
 **きみとなつのおわり しょうらいのゆめ**
 
-kun to natsu no owari shourai no yume
+kimi to natsu no owari shourai no yume
 
 **大きな希望 忘れない (不会忘记那样远大的希望的)**
 
@@ -99,7 +99,7 @@ futari no himitsu no kichi no naka
 
 **きみとなつのおわり しょうらいのゆめ**
 
-kun to natsu no owari shourai no yume
+kimi to natsu no owari shourai no yume
 
 **大きな希望 忘れない (不会忘记那样远大的希望的)**
 
@@ -117,7 +117,7 @@ ooki na kibou wasure nai
 
 **きみがさいごまで こころから**
 
-kun ga saigo made kokoro kara
+kimi ga saigo made kokoro kara
 
 **“ありがとう”叫んでたこと 知ってたよ (喊出“谢谢了” 那样的事情我是知道的喔)**
 
@@ -171,7 +171,7 @@ futari no himitsu no kichi no naka
 
 **きみがさいごまで こころから**
 
-kun ga saigo made kokoro kara
+kimi ga saigo made kokoro kara
 
 **“ありがとう”叫んでたこと 知ってたよ (喊出“谢谢了” 那样的事情我是知道的喔)**
 
@@ -219,19 +219,19 @@ itsumademo futari no kichi no naka
 
 **きみとなつのおわり ずっとはなして ゆうひをみてからほしをながめ**
 
-kun to natsu no owari zutto hanashi te yuuhi wo mite kara hoshi wo nagame
+kimi to natsu no owari zutto hanashi te yuuhi wo mite kara hoshi wo nagame
 
 **君の頬を 流れた涙は ずっと忘れない (从你脸颊上滑落的泪水我永远不会忘记)**
 
 **きみのほおを ながれたなみだは ずっとわすれない**
 
-kun no hoo wo nagare ta namida ha zutto wasure nai
+kimi no hoo wo nagare ta namida ha zutto wasure nai
 
 **君が最后まで 大きく手を振ってくれたこと きっと忘れない (你直到最后还是大力的向我挥手的场景 也一定无法忘怀)**
 
 **きみがさいごまで おおきくてをふってくれたこと きっとわすれない**
 
-kun ga saigo made ookiku te wo futsu tekuretakoto kitto wasure nai
+kimi ga saigo made ookiku te wo futsu tekuretakoto kitto wasure nai
 
 **だから こうして 梦の中で ずっと永远に… (因为好似这样就能永远在梦中和你在一起了…)**
 
@@ -243,7 +243,7 @@ dakara koushite yume no naka de zutto eien ni …
 
 **きみとなつのおわり しょうらいのゆめ**
 
-kun to natsu no owari shourai no yume
+kimi to natsu no owari shourai no yume
 
 **大きな希望 忘れない (不会忘记那样远大的希望的)**
 
@@ -261,7 +261,7 @@ ooki na kibou wasure nai
 
 **きみがさいごまで こころから**
 
-kun ga saigo made kokoro kara
+kimi ga saigo made kokoro kara
 
 **“ありがとう”叫んでたこと 知ってたよ (喊出“谢谢了” 那样的事情我是知道的喔)**
 
