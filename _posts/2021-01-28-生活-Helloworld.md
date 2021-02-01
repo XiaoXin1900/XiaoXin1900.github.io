@@ -16,5 +16,5 @@ emmm,总算找到了一个比较好的模板可以套用，至此，GitHubpage�
 
 ___
 
-Ps：模板仓库：https://github.com/mzlogin/mzlogin.github.io在此表示感谢
+Ps：模板仓库：<a href="https://github.com/mzlogin/mzlogin.github.io">模板</a>在此表示感谢
 
