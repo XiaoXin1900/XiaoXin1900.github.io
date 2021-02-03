@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello world
-categories: Blog
+categories: [Blog]
 description: 
 keywords: Blog
 ---
