@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Hello world
-categories: 生活
+categories: Blog
 description: 
-keywords: 生活
+keywords: Blog
 ---
 
 
