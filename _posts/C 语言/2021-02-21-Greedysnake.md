@@ -12,8 +12,8 @@ keywords: C 语言
 
 <img src="https://i.loli.net/2021/02/17/WZI8nvRD4zHJT9s.gif" alt="snake" style="zoom: 50%;" />
 
-
-文件下载：<a href="https://xiaoxin1900.club/Softwares/Snake.zip" download = Snake.zip>贪吃蛇压缩包(编码方式：GBK)</a>
+文件下载：
+<a href="https://xiaoxin1900.club/Softwares/Snake.zip" download = Snake.zip>贪吃蛇压缩包(编码方式：GBK)</a>
 
 ### 支持功能
 
@@ -118,8 +118,9 @@ ____
    }
    ```
 
-   打印开始时的蛇
-
+   
+打印开始时的蛇
+   
    ```C
    void drawsnake()
    {
@@ -309,7 +310,7 @@ void Success()
 }
 ```
 
-==cls()是一个自定义的清屏函数可以用 system("cls"); 代替==
+**cls()是一个自定义的清屏函数可以用 system("cls"); 代替**
 
 #### 关于UI
 
