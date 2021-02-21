@@ -86,14 +86,14 @@ ____
 
 限于 Jekyll 模板，文章格式如下：
 
-文件名
+文件名<br>
 `年-月-日-标题.markdown`
 
 文章开头含有以下信息
 
-`---`
-`layout: post`
-`title: Blog`
+`---`<br>
+`layout: post`<br>
+`title: Blog`<br>
 `---`
 
 > 可以添加其他信息：如分类等等。
