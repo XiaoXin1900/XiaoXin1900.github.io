@@ -12,8 +12,8 @@ keywords: C 语言
 
 <img src="https://i.loli.net/2021/02/17/WZI8nvRD4zHJT9s.gif" alt="snake" style="zoom: 50%;" />
 
-文件下载：
-<a href="https://xiaoxin1900.club/Softwares/Snake.zip" download = Snake.zip>贪吃蛇压缩包(编码方式：GBK)</a>
+
+<a href="https://xiaoxin1900.club/Softwares/Snake.zip" download = Snake.zip>贪吃蛇压缩包下载(编码方式：GBK)</a>
 
 ### 支持功能
 
@@ -119,8 +119,9 @@ ____
    ```
 
    
+
 打印开始时的蛇
-   
+
    ```C
    void drawsnake()
    {
