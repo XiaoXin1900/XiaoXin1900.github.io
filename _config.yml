@@ -20,10 +20,10 @@ cdn:
 components:
     # 分享
     share:
-        enabled: false
+        enabled: 
     # 不蒜子访问统计
     busuanzi:
-        enabled: true
+        enabled: false
         start_date: 2021-02-28
 # 压缩页面内容
 compress_html:
