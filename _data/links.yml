@@ -17,3 +17,15 @@
 - name: 我的 Nowcoder 博客
   url: https://blog.nowcoder.net/xiaoxin1900
   src: www
+
+- name: 酷壳
+  url: https://coolshell.cn/
+  src: life
+
+- name: 云风的 BLOG
+  url: https://blog.codingnow.com/
+  src: life
+
+- name: 阮一峰的个人网站
+  url: http://www.ruanyifeng.com/home.html
+  src: life
